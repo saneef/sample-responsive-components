@@ -1,0 +1,19 @@
+{
+  "name": "sample-responsive-components",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "3.0.0-alpha.17",
+    "js-yaml": "^4.1.0",
+    "prettier": "^3.3.3",
+    "prettier-plugin-jinja-template": "^1.4.1"
+  }
+}

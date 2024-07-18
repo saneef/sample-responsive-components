@@ -1,0 +1,7 @@
+@layer reset, global, compositions, components, utilites;
+
+@import "./reset.css" layer(reset);
+@import "./global.css" layer(global);
+
+@import "./components/page.css" layer(components);
+@import "./components/tabs.css" layer(components);
