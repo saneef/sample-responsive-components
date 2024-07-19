@@ -3,5 +3,11 @@
 @import "./reset.css" layer(reset);
 @import "./global.css" layer(global);
 
+@import "./compositions/flow.css" layer(compositions);
+@import "./compositions/grid.css" layer(compositions);
+
+@import "./components/blurb.css" layer(components);
+@import "./components/button.css" layer(components);
+@import "./components/form.css" layer(components);
 @import "./components/page.css" layer(components);
 @import "./components/tabs.css" layer(components);
